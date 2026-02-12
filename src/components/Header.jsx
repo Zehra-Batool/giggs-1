@@ -29,7 +29,7 @@ const Header = () => {
         <div className="header-inner">
           <div className="header-logo" onClick={() => scrollTo('hero')}>
             {/* GIGGS<span className="header-logo-dot" /> */}
-<img src="https://giggs.com.au/wp-content/uploads/2026/01/Asset-1-39.png" alt="GIGGS Logo" className="header-logo-image" />
+<img src="/images/logo.webp" alt="GIGGS Logo" className="header-logo-image" />
           </div>
 
           <ul className="header-nav">

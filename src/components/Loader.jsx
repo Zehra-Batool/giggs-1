@@ -16,7 +16,7 @@ const Loader = ({ onComplete }) => {
     <div className={`loader-overlay ${fadeOut ? 'fade-out' : ''}`}>
       <div className="loader-logo">
         {/* GIGGS<span className="loader-logo-dot" /> */}
-<img src="https://giggs.com.au/wp-content/uploads/2026/01/Asset-1-39.png" alt="GIGGS Logo" />
+<img src="/images/logo.webp" alt="GIGGS Logo" />
       </div>
       <div className="loader-tagline">Find a Gig · Get a Gig Done</div>
       <div className="loader-progress-track">

@@ -228,12 +228,10 @@ const Home = () => {
 
             <FadeIn delay={0.2} direction="right">
               <div className="hero-visual">
+
                 <div className="hero-card">
-                  <div className="hero-card-inner">
-                    <div className="hero-card-emoji">🏠</div>
-                    <div className="hero-card-title">Your Home,<br />Our Expertise</div>
-                    <div className="hero-card-subtitle">Trusted local providers</div>
-                  </div>
+                                    <img src="/images/banner-img.png" alt="uj" />
+
                 </div>
                 <div className="hero-float hero-float-1">
                   <div className="hero-float-icon">✓</div>

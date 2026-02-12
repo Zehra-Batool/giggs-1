@@ -14,7 +14,7 @@ const Footer = () => {
           <div>
             <div className="footer-brand-logo">
               {/* GIGGS<span className="footer-brand-dot" /> */}
-<img src="https://giggs.com.au/wp-content/uploads/2026/01/Asset-1-39.png" alt="GIGGS Logo" />
+<img src="/images/logo.webp" alt="GIGGS Logo" />
 
             </div>
             <p className="footer-brand-text">
