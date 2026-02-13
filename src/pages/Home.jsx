@@ -268,13 +268,15 @@ const Home = () => {
             <FadeIn direction="left">
               <div className="about-card">
                 <div className="about-card-badge">
-                  <div className="about-card-badge-num">2</div>
+                <img src="/images/about.avif" alt="" />
+                  {/* <div className="about-card-badge-num">2</div>
                   <div className="about-card-badge-text">Step Booking</div>
                 </div>
                 <div className="about-card-emoji">🤝</div>
                 <div className="about-card-caption">
                   Connecting Locals<br />Across Queensland
-                </div>
+                </div> */}
+              </div>
               </div>
             </FadeIn>
 
